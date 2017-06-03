@@ -1,0 +1,90 @@
+body {
+  font-family: 'Lato', sans-serif;
+  background-image:
+url(https://coding-days.com/wp-content/uploads/2017/01/background_white.png);
+  background-size: cover;
+  color: #7a7a7a;
+  font-family: 'Lato';
+  }
+header {
+  text-align: center;
+  margin-top: 60px;
+  margin-bottom: 60px;
+  }
+article {
+  color: red;
+}
+.carte_de_visite {
+  background-color: rgba(142, 142, 142, 0.5);
+  width: 600px;
+  margin: 0 auto;
+  padding: 15px 40px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+h1{
+  text-align: center;
+}
+.message_un{
+  color: blue;
+}
+
+.message_deux {
+  color: yellow;
+}
+
+.photo{
+  height: 80px;
+  width: 80px;
+  border-radius: 50%;
+  background-image: url('https://media.licdn.com/mpr/mpr/shrinknp_100_100/p/8/005/0b4/2d6/18e248a.jpg');
+  background-size: cover;
+  background-position: center;
+}
+
+.social{
+  text-align: center;
+  margin-top: 60px;
+  display: flex;
+  justify-content: center;
+}
+
+.btn {
+  border-radius: 50%;
+  padding: 10px;
+  width: 15px;
+  height: 15px;
+  background-color: #b3b3b3;
+  color: white;
+  margin: 5px;
+  display: flex;
+  justify-content: center;
+  background-color: #b3b3b3;
+}
+
+.twitter {
+  border-radius: 50%;
+  padding: 10px;
+  width: 15px;
+  height: 15px;
+  background-color: #b3b3b3;
+  color: white;
+  margin: 5px;
+  display: flex;
+  justify-content: center;
+  background-color: #b3b3b3;
+}
+
+.linkedin {
+  border-radius: 50%;
+  padding: 10px;
+  width: 15px;
+  height: 15px;
+  background-color: #b3b3b3;
+  color: white;
+  margin: 5px;
+  display: flex;
+  justify-content: center;
+  background-color: #b3b3b3;
+}
